@@ -1,7 +1,4 @@
 # upwork-email-notifier
-job-related emailsを自動フィルタリングしてSlack通知
-
-# upwork-email-notifier
 
 Automatically filters job-related emails from Upwork and sends Slack notifications.
 
